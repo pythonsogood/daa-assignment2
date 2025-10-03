@@ -20,7 +20,7 @@ List<Integer> arraySorted = SelectionSort.sortOptimized(array);
 
 ## Time vs N plot
 
-![time_vs_n](/assignment2/performance-plots/time_vs_n.png)
+![time_vs_n](/performance-plots/time_vs_n.png)
 
 ## Requirements
 
